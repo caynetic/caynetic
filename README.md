@@ -1,145 +1,151 @@
 # Caynetic
 
-## Custom Software & SaaS Built for the Caribbean
+## Building practical technology and digital capacity across the Caribbean.
 
-Caynetic is a Bahamian technology company building secure, community-driven software systems for the Caribbean.
+Caynetic Ltd. is a Bahamian technology company that designs, builds, and supports software, digital systems, and technology products for businesses, communities, and institutions.
 
-We design and ship custom software, regional SaaS products, and open-source tools built specifically for Caribbean realities — not retrofitted from global assumptions.
+Our goal is broader than building websites or individual applications. We want to strengthen the Caribbean’s digital capacity by modernising workflows, improving access to technology, building useful local products, strengthening security, and sharing tools that others can build upon.
 
-Our focus is simple:  
-**Build practical software that works where our clients work.**
-
----
-
-## What We Build
-
-### CaribTrends
-A Caribbean-first SEO and market intelligence platform helping businesses grow using real regional search data and local signals.
-
-- Regional SEO insights  
-- Local trend intelligence  
-- Market opportunity signals  
-- Country-specific growth data  
-
-https://caribtrends.com/
+We work across sectors wherever thoughtful technology can reduce friction, improve service delivery, expand access, or create new opportunities.
 
 ---
 
-### CaribInsights
-Structured, up-to-date country briefs for Caribbean nations.
+## What We Do
 
-Built for:
-- Operations planning  
-- Compliance awareness  
-- Travel coordination  
-- Regional business expansion  
+### Custom Software & Web Applications
 
-Includes public holidays, key dates, and high-level tax signals in one structured system.
+We design and build software around real operational needs.
 
-https://caribinsights.com/
+* Internal business systems
+* Customer and employee portals
+* Booking and service platforms
+* Dashboards and administrative tools
+* Mobile-friendly web applications
+* SaaS product development
+* Existing-system modernisation
+
+### Business Automation & Integrations
+
+We help organisations reduce repetitive work and connect disconnected systems.
+
+* Workflow and approval automation
+* API and third-party integrations
+* Document-processing systems
+* Notifications and operational alerts
+* Data synchronisation
+* Reporting and administrative workflows
+
+### Artificial Intelligence
+
+We integrate AI where it creates practical value while keeping people accountable for important decisions.
+
+* AI-assisted business workflows
+* Knowledge and document systems
+* Retrieval-augmented generation
+* Custom MCP servers
+* Controlled AI agents
+* Model integration and orchestration
+* Monitoring, evaluation, and human review
+
+### Security & Technical Guidance
+
+We help organisations understand and reduce technology risk.
+
+* Website and web application security reviews
+* Authentication and access-control reviews
+* Cloud and deployment risk checks
+* Data-handling assessments
+* Architecture and technology planning
+* Security remediation guidance
+* Technical consultations
 
 ---
 
-### Custom Software & Integrations
-We build secure, scalable systems tailored to your workflows.
+## Products & Initiatives
 
-- Internal tools  
-- Web applications  
-- SaaS platforms  
-- Business automation  
-- AI-assisted systems (implemented responsibly)  
-- Integrations with existing infrastructure  
+### CayneticVPN
 
-Start a project: https://tech.caynetic.com/
+A privacy-first VPN product built in The Bahamas, designed to provide encrypted internet access with minimised data collection.
 
----
+[cayneticvpn.com](https://cayneticvpn.com)
 
-### CayneticVPN (Beta)
-A privacy-first VPN built in The Bahamas.
+### CaribbeanSaaS.com
 
-- No-logs architecture  
-- Strong encryption  
-- Secure global nodes  
-- Privacy-focused infrastructure  
+A curated directory helping people discover SaaS products, AI tools, fintech platforms, cybersecurity products, and developer tools built across the Caribbean.
 
-Join Beta: https://cayneticvpn.com/
-
----
+[caribbeansaas.com](https://caribbeansaas.com)
 
 ### Caynetic OSS
-Open-source software for Caribbean developers and security-focused teams.
 
-- MIT-licensed projects  
-- Security-first utilities  
-- Self-hostable tools  
-- Community contributions welcome  
+Our open-source initiative for publishing transparent, self-hostable, and security-conscious software under permissive licences.
 
-https://oss.caynetic.com/
+[oss.caynetic.com](https://oss.caynetic.com)
 
----
+### CayVPN
 
-## What Makes Caynetic Different
+A free, self-hosted WireGuard VPN system with a web management interface, encrypted peer-key storage, and AdGuard Home DNS filtering.
 
-- **Caribbean-First Thinking**  
-  Built with local data, regulations, banking realities, and infrastructure constraints in mind.
+[github.com/caynetic/cayvpn](https://github.com/caynetic/cayvpn)
 
-- **Security by Design**  
-  Privacy, hardening, and data protection are part of architecture — not add-ons.
+### CaribTrends
 
-- **Product Over Hype**  
-  Stability, clarity, and measurable results over buzzwords.
+A Caribbean-first search and market-intelligence platform focused on regional demand signals, search behaviour, and digital opportunities.
 
-- **Community Rooted**  
-  Built in The Bahamas. Serving the Caribbean. Expanding globally.
+[caribtrends.com](https://caribtrends.com)
 
 ---
 
-## Mission
+## How We Work
 
-Empower Caribbean businesses with secure, regionally-aware software that drives measurable growth.
+### Caribbean Context, Global Standards
 
-## Vision
+We understand the payment limitations, infrastructure constraints, regulations, customer expectations, and operating realities that affect Caribbean organisations.
 
-Become the Caribbean’s most trusted software and SaaS company by combining local intelligence with technical excellence.
+### Practical Outcomes
+
+We prioritise useful, maintainable systems over unnecessary complexity and technology hype.
+
+### Security by Design
+
+Privacy, access control, data protection, and operational resilience are considered throughout the development process.
+
+### Accessible Technology
+
+We believe useful technology should be understandable, inclusive, and accessible to the people expected to use it.
+
+### Community Contribution
+
+We support Caribbean technology through open-source development, software discovery, education, volunteering, and locally built products.
+
+---
+
+## Our Mission
+
+Build practical technology that expands digital access, strengthens local capability, and helps Caribbean organisations operate more effectively.
+
+## Our Vision
+
+A Caribbean where businesses, institutions, communities, and developers have greater access to secure, locally relevant technology—and the capability to build and improve it themselves.
 
 ---
 
 ## Founder
 
-**Christopher Klein**  
-Founder & Lead Developer
+Caynetic was founded by **Christopher Klein**, a Bahamian software engineer with experience in software development, automation, banking, insurance, AI integration, infrastructure, and secure systems.
 
-Full-stack engineer and AI systems builder with experience in:
-
-- Banking & insurance systems  
-- OCR automation pipelines  
-- Flask & Django architectures  
-- AI integration & automation  
-- Infrastructure & security design  
-
-https://cmklein.com/
+[christopherklein.dev](https://christopherklein.dev)
 
 ---
 
-## Contact
+## Work With Caynetic
 
-Website: https://caynetic.com/  
-Location: The Bahamas • Serving the Caribbean  
-Phone: +1-242-556-3386  
-Email: hello@caynetic.com  
-Instagram: https://www.instagram.com/caynetic/  
-Facebook: https://www.facebook.com/profile.php?id=61579092118303  
+Whether you need custom software, workflow automation, a security review, technical direction, or support bringing a technology product to life, start a conversation with us.
 
----
-
-## Get Started
-
-Have an idea?  
-Need secure custom software?  
-Looking to build something built for the Caribbean?
-
-Let’s talk.
+* Website: [caynetic.com](https://caynetic.com)
+* Technology Services: [tech.caynetic.com](https://tech.caynetic.com)
+* Email: [hello@caynetic.com](mailto:hello@caynetic.com)
+* Location: The Bahamas — serving the Caribbean and beyond
 
 ---
 
-© 2026 Caynetic Ltd. All rights reserved.
+**Built in The Bahamas. Made for real-world Caribbean needs.**
