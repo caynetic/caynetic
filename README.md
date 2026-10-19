@@ -6,13 +6,35 @@ We build software, automation, and technology products for businesses and commun
 
 ## Featured projects
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **CayVPN**<br><a href="https://github.com/caynetic/cayvpn"><img src="assets/projects/cayvpn.webp" alt="Caynetic OSS and CayVPN project illustration" width="200"></a> | A self-hosted VPN manager for Ubuntu, with WireGuard, a private web panel, and DNS controls. | [Code](https://github.com/caynetic/cayvpn) · [Project site](https://oss.caynetic.com/vpn) |
-| **Serve the Cays**<br><a href="https://github.com/caynetic/stc"><img src="assets/projects/serve-the-cays.webp" alt="Serve the Cays community directory project illustration" width="200"></a> | A Bahamian community directory for finding organisations, events, and ways to get involved. | [Code](https://github.com/caynetic/stc) · [Website](https://servethecays.com) |
-| **CaribbeanSaaS**<br><a href="https://github.com/caynetic/caribbeansaas"><img src="assets/projects/caribbeansaas.webp" alt="CaribbeanSaaS software discovery project illustration" width="200"></a> | A curated directory for discovering software products built across the Caribbean. | [Code](https://github.com/caynetic/caribbeansaas) · [Website](https://caribbeansaas.com) |
+### CayVPN
 
-Project illustrations from [Caynetic.com](https://caynetic.com/#products).
+<a href="https://github.com/caynetic/cayvpn"><img src="assets/projects/cayvpn-detail-v2.webp" alt="Illustration of device management, locations, signed updates, and an owner-supplied server" width="800"></a>
+
+A self-hosted VPN manager for Ubuntu, with WireGuard, a private web panel, and DNS controls.
+
+[Code](https://github.com/caynetic/cayvpn) · [Project site](https://oss.caynetic.com/vpn)
+
+---
+
+### Serve the Cays
+
+<a href="https://github.com/caynetic/stc"><img src="assets/projects/serve-the-cays-detail-v2.webp" alt="Illustration of community organization discovery, search filters, and events" width="800"></a>
+
+A Bahamian community directory for finding organisations, events, and ways to get involved.
+
+[Code](https://github.com/caynetic/stc) · [Website](https://servethecays.com)
+
+---
+
+### CaribbeanSaaS
+
+<a href="https://github.com/caynetic/caribbeansaas"><img src="assets/projects/caribbeansaas-detail-v2.webp" alt="Illustration of software search, category and region filters, and product discovery" width="800"></a>
+
+A curated directory for discovering software products built across the Caribbean.
+
+[Code](https://github.com/caynetic/caribbeansaas) · [Website](https://caribbeansaas.com)
+
+Project illustrations adapted from [Caynetic.com](https://caynetic.com/#products).
 
 ## More from Caynetic
 
