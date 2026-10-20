@@ -8,7 +8,7 @@ We build software, automation, and technology products for businesses and commun
 
 ### CayVPN
 
-<a href="https://github.com/caynetic/cayvpn"><img src="assets/projects/cayvpn-detail-v2.webp" alt="Illustration of device management, locations, signed updates, and an owner-supplied server" width="800"></a>
+<a href="https://github.com/caynetic/cayvpn"><img src="assets/projects/cayvpn-detail-v2.webp" alt="Illustration of device management, locations, signed updates, and an owner-supplied server" width="640"></a>
 
 A self-hosted VPN manager for Ubuntu, with WireGuard, a private web panel, and DNS controls.
 
@@ -18,7 +18,7 @@ A self-hosted VPN manager for Ubuntu, with WireGuard, a private web panel, and D
 
 ### Serve the Cays
 
-<a href="https://github.com/caynetic/stc"><img src="assets/projects/serve-the-cays-detail-v2.webp" alt="Illustration of community organization discovery, search filters, and events" width="800"></a>
+<a href="https://github.com/caynetic/stc"><img src="assets/projects/serve-the-cays-detail-v2.webp" alt="Illustration of community organization discovery, search filters, and events" width="640"></a>
 
 A Bahamian community directory for finding organisations, events, and ways to get involved.
 
@@ -28,7 +28,7 @@ A Bahamian community directory for finding organisations, events, and ways to ge
 
 ### CaribbeanSaaS
 
-<a href="https://github.com/caynetic/caribbeansaas"><img src="assets/projects/caribbeansaas-detail-v2.webp" alt="Illustration of software search, category and region filters, and product discovery" width="800"></a>
+<a href="https://github.com/caynetic/caribbeansaas"><img src="assets/projects/caribbeansaas-detail-v2.webp" alt="Illustration of software search, category and region filters, and product discovery" width="640"></a>
 
 A curated directory for discovering software products built across the Caribbean.
 
